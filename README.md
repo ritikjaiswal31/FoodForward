@@ -3,12 +3,16 @@ Food Forward is a mobile application designed to bridge the gap between restaura
 
 ### Key Features:
 -> Connects food donors (restaurants, messes) with NGOs.
+
 -> Real-time notifications for food availability.
+
 -> Simple and intuitive UI for easy food listing and collection.
+
 -> Helps reduce food waste and support those in need.
 
 ### Tech Stack:
 -> Frontend: Flutter (Dart)
+
 -> Backend: Firebase (Authentication, Firestore, Storage)
 
 ![image](https://github.com/user-attachments/assets/f7269181-652c-4540-b888-fde3ddd8f450)
