@@ -1,14 +1,13 @@
-# Food Forward – From Excess to Access
+## Food Forward – From Excess to Access
+Food Forward is a mobile application designed to bridge the gap between restaurants/mess providers and NGOs. The app facilitates the collection of excess food by NGOs, which is then distributed to underprivileged communities. This not only combats food waste but also contributes to hunger alleviation in a streamlined, tech-driven way.
 
-### Food Forward is a mobile application designed to bridge the gap between restaurants/mess providers and NGOs. The app facilitates the collection of excess food by NGOs, which is then distributed to underprivileged communities. This not only combats food waste but also contributes to hunger alleviation in a streamlined, tech-driven way.
-
-## Key Features:
+### Key Features:
 -> Connects food donors (restaurants, messes) with NGOs.
 -> Real-time notifications for food availability.
 -> Simple and intuitive UI for easy food listing and collection.
 -> Helps reduce food waste and support those in need.
 
-## Tech Stack:
+### Tech Stack:
 -> Frontend: Flutter (Dart)
 -> Backend: Firebase (Authentication, Firestore, Storage)
 
