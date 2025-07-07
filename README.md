@@ -40,6 +40,7 @@ Backend:	Firebase Authentication | Cloud Firestore | Firebase Storage
 
 ## 🚀 Getting Started
 Clone the repository: git clone https://github.com/yourusername/FoodForward.git
+
                       cd food-forward
 
 Install dependencies: flutter pub get
