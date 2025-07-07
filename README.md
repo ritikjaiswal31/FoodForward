@@ -15,11 +15,10 @@ Intuitive interface for donors to list excess food in just a few taps.
 Reduces food waste and helps feed underprivileged communities with dignity and efficiency.
 
 ## 🛠️ Tech Stack
-Layer	Technology
+
 Frontend:	Flutter (Dart)
-Backend:	Firebase Authentication
-          Cloud Firestore
-          Firebase Storage
+
+Backend:	Firebase Authentication | Cloud Firestore | Firebase Storage
 
 ## 📸 Screenshots
 
@@ -39,7 +38,7 @@ Backend:	Firebase Authentication
 
 ![image](https://github.com/user-attachments/assets/3d59d00a-ac07-46ab-bac9-d316733493e1)
 
-### 🚀 Getting Started
+## 🚀 Getting Started
 Clone the repository: git clone https://github.com/yourusername/food-forward.git
                       cd food-forward
 
@@ -47,6 +46,6 @@ Install dependencies: flutter pub get
 
 Run the app: flutter run
 
-### 💡 Inspiration
+## 💡 Inspiration
 Food Forward is inspired by the idea of transforming excess into access—fighting food insecurity while tackling the global issue of food waste with the help of technology.
 
